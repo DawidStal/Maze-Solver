@@ -4,7 +4,7 @@ import java.util.Stack;
 public class MazeSolver{ 
  
     public static void main (String[] args){
-        File file = new File("C:\\Users\\dawid\\Desktop\\stuff\\CS210\\Maze1.txt");
+        File file = new File("Maze1.txt");
         
         int lives = 200;
         int posX = 0;
